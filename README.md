@@ -8,6 +8,7 @@ Published under the stipulations of the Creative Commons License, its distributi
 
 ### Current version
 0.1 - August 2023
+
 Latest version can always be found @ https://github.com/Cruceta-CPC/zine/
 
 ## Know your rights
