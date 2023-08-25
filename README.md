@@ -4,7 +4,11 @@
 
 This zine provides you with knowledge that can significantly improve your cybersecurity as well as the cybersecurity of those around you.
 
-Published under the stipulations of the Creative Commons License, its distribution and modification are permissible, with commercial sale prohibited. Current version: 0.1 (August 2023). Latest versions can be sourced from zine.cruceta.ca.
+Published under the stipulations of the Creative Commons License, its distribution and modification are permissible, with commercial sale prohibited. 
+
+### Current version
+0.1 - August 2023
+Latest version can always be found @ https://github.com/Cruceta-CPC/zine/
 
 ## Know your rights
 
