@@ -83,7 +83,4 @@ We encourage you to share this little guide with your loved ones. We also encour
 
 This guide was created by [Cruceta Compagnie Privée de Cybersécurité](https://www.cruceta.ca/), a Montreal-based Cybersecurity consultancy dedicated to educating Canadians and free citizens around the world about their digital rights.
 
-## License
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
