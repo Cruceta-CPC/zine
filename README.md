@@ -77,9 +77,9 @@ While cybersecurity is an ongoing effort, even basic steps can significantly boo
 
 ## Engage and Share
 
-A QR code at the end links to this guide online. You're encouraged to share, annotate, or simply reference it in your security journey.
+We encourage you to share this little guide with your loved ones. We also encourage you to download, copy it, expand it, and annotate it. Only through collaboration between responsible and well-informed citizens can we hope to slay our modern chimeras.
 
-## Acknowledgement
+## Authorship and License
 
 This guide was created by [Cruceta Compagnie Privée de Cybersécurité](https://www.cruceta.ca/), a Montreal-based Cybersecurity consultancy dedicated to educating Canadians and free citizens around the world about their digital rights.
 
