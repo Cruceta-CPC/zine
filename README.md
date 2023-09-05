@@ -2,85 +2,132 @@
 
 ## Introduction
 
-This zine provides you with knowledge that can significantly improve your cybersecurity as well as the cybersecurity of those around you.
+This zine provides a quick but comprehensive examination of personal cybersecurity practices and procedures.
 
-Published under the stipulations of the Creative Commons License, its distribution and modification are permissible, with commercial sale prohibited. 
-
-### Current version
-0.1 - August 2023
-
-Latest version can always be found @ https://github.com/Cruceta-CPC/zine/
+You can use it to keep yourself safe and protect your privacy online.
 
 ## Know your rights
 
-Article 12 of the Universal Declaration of Human Rights proclaimed by the United Nations General Assembly in Paris on 10 December 1948, states the following:
+Online safety and privacy are basic human rights. Article 12 of the Universal Declaration of Human Rights, proclaimed by the UN General Assembly on 10 December 1948 in Paris, states the following:
 
-"No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks."
+>"No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks."
 
-No entity, whether individual, corporate, or state, has the legitimate authority to infringe upon an individual's online privacy.
+Your human rights are inalienable. No entity, whether individual, corporate, or state, has the authority to infringe upon any individual's online privacy.
 
-## Use a password manager
+## Ways to Protect Yourself from Cyber Threats
 
-For optimal security, passwords should be both extensive and intricate. A password manager, such as [KeePassXC](https://keepassxc.org/), serves to store and manage these credentials.
+While online safety and privacy might be a human right, there are still threats out there.
 
-## Biannual Security Audit
+It’s wise to look closely at what you do online and make sure you’re getting things right.
 
-Set a reminder to review your online presence every six months, removing any potentially compromising content.
+Here are some things you can do to protect yourself online.
 
-While the internet offers endless enjoyment, it's easy to inadvertently compromise one's security. Should you find the review distressing, consider turning it into a group activity, enhancing security alongside friends.
+### Use a Password Manager 
 
-## Social Media Caution
+Password security is important. You don’t want your accounts to be hacked. For the best security, passwords should be both long and intricate. Password managers, such as [KeePassXC](https://keepassxc.org/), can help by storing and managing complicated passwords.
 
-Though entertaining, social media platforms have often faltered in maintaining user information security. Download your data backups from these platforms and consider reducing the content you share.
+### Do a Biannual Security Audit
 
-While it's integral to our society, be cautious. Limit uploading identifiable data, like personal and family photos. For communication, platforms like [Mastodon](https://joinmastodon.org/) are safer alternatives.
+Set a reminder to review your online presence every six months, and remove any potentially compromising content. Content that contains information about your whereabouts, for example, might be a problem.
 
-## Prioritize Safe Browsers
+While the internet offers endless enjoyment, it's easy to accidentally compromise your security. If you find completing an audit tiring, consider turning it into a hang out with your mates. You can all help each other out.
 
-[Chrome may not prioritize your privacy](https://www.gnu.org/proprietary/malware-google.en.html). Big tech browsers, like Safari and Edge, require caution as well.
+### Be Cautious on Social Media
+
+Social media platforms aren’t just entertaining. They’ve become integral to society. However, they’ve been found to have faltered in maintaining user information security a number of times.
+
+Be cautious. Limit uploading identifiable data, like personal and family photos. You can also consider removing content that you store on social media sites and downloading data backups so you can store it yourself.
+
+For communication, platforms like [Signal](https://signal.org/) & [Mastodon](https://joinmastodon.org/) are safer alternatives.
+
+### Prioritize Using Safe Browsers
+
+[Chrome may not prioritize your privacy](https://www.gnu.org/proprietary/malwaregoogle.en.html). Big tech browsers, like Safari and Edge, require caution as well.
 
 [Brave](https://brave.com/), a Chromium-based browser, is a privacy-respecting alternative.
 
-## Opt for Secure Email Providers
+### Opt for Secure Email Providers
 
-"If the product is free, you're the product." This tech saying highlights why secure email services are vital. Consider switching to [Startmail](https://www.startmail.com/) or [Proton](https://proton.me/)
+>"If the product is free, you're the product."
 
-## Implement Ad-blockers
+This tech saying highlights why using secure email services is vital.
 
-Ads can be more than just annoying; they've driven some of tech's most concerning behaviors. If you don't use a browser like Brave, consider extensions like Ghostery and uBlock to shield your identity.
+Secure email services don’t sell your data.
 
-For content creators reliant on ads, suggest direct support methods, like tip jars. This helps artists earn without the influence of ad companies.
+Did you know that some email providers scan your emails for keywords so they can show you personalized ads?
 
-## Use VPNs Consistently
+Bad faith actors can also purchase this information to more effectively target you.
 
-A VPN, like [NordVPN](https://nordvpn.com/), serves as an essential layer of online protection. If businesses you engage with discourage VPN use, voice your concerns and seek alternatives that prioritize your security.
+Consider switching to [Startmail](https://www.startmail.com/) or [Proton](https://proton.me/)
 
-## Digital Clean-Up
+### Implement Ad-Blockers
 
-Engage services like [Incogni](https://incogni.com/) to minimize your online footprint. Consider repeating this process periodically.
+Ads can be more than just annoying. In fact, some of big tech's most concerning behaviors relate to ads. If you don't use a browser like Brave, consider extensions like Ghostery and uBlock to shield your identity.
 
-## Defend Against Malware
+Content creators reliant on ads can consider using direct support methods, like tip jars, instead of ads. This helps artists earn without boosting the influence of ad companies.
 
-Utilize trusted tools like [Kaspersky](https://www.kaspersky.com/?ignoreredirects=true) and [Malwarebytes](https://www.malwarebytes.com/) to safeguard against malware threats. Regularly review and update your protective software.
+### Consistently Use VPNs
 
-## Use Privacy-focused Search Engines
+Using a VPN like [NordVPN](https://nordvpn.com/) gives you an essential level of online protection.
+
+VPNs encrypt your data, hide your IP address and do a whole lot more.
+
+If online businesses you engage with discourage VPN use, voice your concerns and try to switch to ones that let you prioritize your security.
+
+### Do Digital Clean-Ups
+
+Engage services like [Incogni](https://incogni.com/) to minimize your online footprint.
+
+Repeat this process from time to time as well.
+
+### Defend Against Malware
+
+Use trusted tools like [Kaspersky](https://www.kaspersky.com/?ignoreredirects=true) and [Malwarebytes](https://www.malwarebytes.com/) to safeguard yourself against malware threats.
+
+Regularly review and update your protective software as well.
+
+### Use Privacy-Focused Search Engines
 
 [Startpage](https://www.startpage.com/) allows Google search results without Google's tracking.
 
-## Educate the Vulnerable
+[DuckDuckGo](https://duckduckgo.com) is a more well-known alternative.
 
-Cyber threats evolve continually. Engage with the vulnerable, such as seniors and the very young, to ensure they're informed and protected. They often become prime targets for unscrupulous entities.
+## Some Things to Think About
 
-## Cybersecurity as a Continuous Effort
+We’ll all be more secure if we work together and remember to stay on top of cyber threats.
 
-While cybersecurity is an ongoing effort, even basic steps can significantly boost your protection and that of your loved ones.
+### Cybersecurity is a Continuous Effort
 
-## Engage and Share
+Staying secure means maintaining an effort.
 
-We encourage you to share this little guide with your loved ones. We also encourage you to download, copy it, expand it, and annotate it. Only through collaboration between responsible and well-informed citizens can we hope to slay our modern chimeras.
+Cyber threats evolve, and we all need to make sure our cybersecurity practices keep us ahead of the threats. Remember to keep an eye on the advice as it evolves. If it’s easier, you can ask your friends what news they have.
 
-## Authorship and License
+Staying up to date normally only means making occasional basic changes, but it can really help.
 
-This guide was created by [Cruceta Compagnie Privée de Cybersécurité](https://www.cruceta.ca/), a Montreal-based Cybersecurity consultancy dedicated to educating Canadians and free citizens around the world about their digital rights.
+In today’s interconnected world, staying cyber secure even protects your loved ones as well!
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+### Educate the Vulnerable
+
+As we just said, cyber threats evolve continually. Unfortunately, vulnerable people are usually the first ones to fall victim to new threats when they emerge.
+
+Unscrupulous online criminals make them their main target.
+
+We can all help by engaging with vulnerable people, such our elders and our young, to make sure they're informed.
+
+### Share This Information and Engage With Others
+
+Help others by letting them know what they can do to keep themselves safe and protect their privacy.
+
+You're fully encouraged to share, annotate or simply reference this zine in your cybersecurity journey.
+
+## Credits
+
+This guide was created by [Cruceta Private Cybersecurity Company](https://www.cruceta.ca/).
+
+We’re a Montreal-based consultancy that’s dedicated to educating Canadians about their digital rights.
+
+Published under the stipulations of Creative Commons (CC0), its distribution and modification are permissible, with commercial sale prohibited.
+
+This is version 0.2 (Published September 2023).
+
+The latest version can be sourced from [Github](https://github.com/Cruceta-CPC/zine)
