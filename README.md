@@ -122,7 +122,7 @@ You're fully encouraged to share, annotate or simply reference this zine in your
 
 ## Credits
 
-This guide was created by [Cruceta Private Cybersecurity Company](https://www.cruceta.ca/).
+This guide was created by [Cybersécurité Cruceta](https://www.cruceta.ca/).
 
 We’re a Montreal-based consultancy that’s dedicated to educating Canadians about their digital rights.
 
