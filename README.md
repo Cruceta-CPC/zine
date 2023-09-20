@@ -1,5 +1,9 @@
 # Cruceta's lil' zine of cybersecurity
 
+## Translations
+
+- [Français](fr.md)
+
 ## Introduction
 
 This zine provides a quick but comprehensive examination of personal cybersecurity practices and procedures.
@@ -22,7 +26,7 @@ It’s wise to look closely at what you do online and make sure you’re getting
 
 Here are some things you can do to protect yourself online.
 
-### Use a Password Manager 
+### Use a Password Manager
 
 Password security is important. You don’t want your accounts to be hacked. For the best security, passwords should be both long and intricate. Password managers, such as [KeePassXC](https://keepassxc.org/), can help by storing and managing complicated passwords.
 
